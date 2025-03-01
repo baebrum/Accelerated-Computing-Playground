@@ -1,2 +1,10 @@
-*/_build/
-results*
+*/_build
+*/results*
+.vscode/
+p04/jacobi_cpu_*
+p04/jacobi_gpu_*
+p04/t2/*
+p04/jacobi_cpu
+p04/jacobi_gpu
+p04/5M_iterations
+p04/delete/
