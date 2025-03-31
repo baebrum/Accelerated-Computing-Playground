@@ -1,0 +1,7 @@
+{
+    "name": "p07",
+    "version": "0.1.0",
+    "dependencies": [
+        "stb"
+    ]
+}
